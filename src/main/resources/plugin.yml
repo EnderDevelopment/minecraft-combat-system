@@ -1,0 +1,10 @@
+name: CombatSystem
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A simple combat system for Minecraft
+api-version: "1.21"
+commands:
+  combat:
+    description: Main combat command
+    usage: /combat
